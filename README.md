@@ -1,5 +1,5 @@
-function theBeatlesPlay
-
+'use strict'; 
+'use strict';
 
 function theBeatlesPlay(players, instruments) {
     var allPlayers = [];
