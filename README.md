@@ -2,9 +2,12 @@
 
 ## Objectives
 
-+ Build a for loop
-+ Build a while loop
-+ Build a do-while loop
+function theBeatlesPlay(players, instruments) {
+    var allPlayers = [];
+    for (var i=0; i < players.length; i++) {
+        allPlayers.push(players[i] + " plays " + instruments[i]);
+    }
+    return allPlayers;
 
 ## Instructions
 
