@@ -1,6 +1,5 @@
-# Beatles Loops
+function theBeatlesPlay
 
-## Objectives
 
 function theBeatlesPlay(players, instruments) {
     var allPlayers = [];
